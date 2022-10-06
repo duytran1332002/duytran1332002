@@ -15,6 +15,7 @@
 <img height="27" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">&nbsp;&nbsp;
 <img height="27" src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4">&nbsp;&nbsp;
 <img height="27" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;
+<img height="27" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png">&nbsp;&nbsp;
 
 ## 🔥 My Stats
 <div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duytran1332002&show_icons=true&locale=en&layout=compact&&bg_color=30,093028,237A57&title_color=fff&text_color=fff" alt="duytran1332002" />
