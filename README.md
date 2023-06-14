@@ -4,7 +4,9 @@
 - 💞️ My favorite perspective is "Enjoy every present moment"
 - 📫 How to reach me: crackonebrain@gmail.com
 ## SSH public key
-```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPERAnLHd1py5TPXTISEVLlGBohbZqNfMfGGPi+wE0HB crackonebrain@gmail.com```
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPERAnLHd1py5TPXTISEVLlGBohbZqNfMfGGPi+wE0HB crackonebrain@gmail.com
+```
 
 ## 🎁 Technologies and Skills: 
 <img height="27" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">&nbsp;&nbsp;
